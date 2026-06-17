@@ -1,4 +1,7 @@
-Check out the live portfolio page at https://www.shawna.dev
+This is the archived version of Shawna Hartley's original portfolio site.
 
-Creating connections and exploring the world through code and curiosity.
-Join me on this exciting journey of combining technology, creativity, and a touch of wanderlust.
+The main portfolio has been replaced by a new design and lives at:
+  https://www.shawna.dev
+
+This archived version is still accessible at:
+  https://www.shawna.dev/old-portfolio/
